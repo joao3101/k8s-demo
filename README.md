@@ -22,7 +22,7 @@ or use [kubectx](https://github.com/ahmetb/kubectx)
     
 or
 
-    kubectl create -f 00-namepace.yaml
+    kubectl create -f 00-namespace.yaml
 
 
 ## Set `demo` namespace by default
